@@ -39,21 +39,5 @@ The ERD was translated into a physical database model using Data Definition Lang
 ### 3. SQL Queries
 SQL statements were written to retrieve data according to the project's queries, allowing for meaningful insights and reports.
 
-## Installation and Setup
-Provide instructions on how to set up the project locally. Include steps to install any dependencies, set up databases, and run the application.
 
-## Usage
-Explain how to use the system, including how to perform key tasks like signing up, booking a ride, and viewing ride history.
-
-## Contributing
-Invite other developers to contribute to the project by providing guidelines for submitting pull requests and reporting issues.
-
-## License
-Include the license under which the project is released, if applicable.
-
-## Contact
-Provide your contact information or that of the project maintainer for users to reach out with questions or feedback.
-
-## Acknowledgments
-Offer thanks to anyone who contributed to the project, including any third-party resources or libraries used.
 
