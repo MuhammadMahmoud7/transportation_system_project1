@@ -50,12 +50,15 @@ SQL statements were written to retrieve data according to the project's queries,
 3- Detailed driver profiles and ride counts.
 ---------------
 ![image](https://github.com/MuhammadMahmoud7/transportation_system_project1/assets/36486806/18c2726e-309e-4734-b2c5-28972bb2fa6c)
+
 4- Drivers rated at least 4.5 out of 5.
 ---------------
 ![image](https://github.com/MuhammadMahmoud7/transportation_system_project1/assets/36486806/ddc058f5-bf85-4ce9-97f6-e6f051cce7d2)
+
 5- Drivers with no rides in the last month.
 ---------------
 ![image](https://github.com/MuhammadMahmoud7/transportation_system_project1/assets/36486806/08df9e67-04b3-4766-9bbf-1a7ba825e1f9)
+
 6- Most requested vehicle type.
 ---------------
 ![image](https://github.com/MuhammadMahmoud7/transportation_system_project1/assets/36486806/c8d226e1-791f-47e4-8a42-234e11b831e2)
