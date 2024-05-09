@@ -36,8 +36,22 @@ The ERD was created to visualize the data model and its relationships, ensuring 
 ### 2. Physical Model (DDL Scripts)
 The ERD was translated into a physical database model using Data Definition Language (DDL) scripts to establish the database schema.
 
-### 3. SQL Queries
+### 3. SQL Queries + screenshots of the results
 SQL statements were written to retrieve data according to the project's queries, allowing for meaningful insights and reports.
+1- Areas with the highest/lowest ride requests.
+![image](https://github.com/MuhammadMahmoud7/transportation_system_project1/assets/36486806/3e747de5-c2b9-42b2-8b8a-459df282826a)
+2- Drivers with the most rides.
+![image](https://github.com/MuhammadMahmoud7/transportation_system_project1/assets/36486806/52b1179d-1c04-4db9-a012-1fa6774e2515)
+3- Detailed driver profiles and ride counts.
+![image](https://github.com/MuhammadMahmoud7/transportation_system_project1/assets/36486806/18c2726e-309e-4734-b2c5-28972bb2fa6c)
+4- Drivers rated at least 4.5 out of 5.
+![image](https://github.com/MuhammadMahmoud7/transportation_system_project1/assets/36486806/ddc058f5-bf85-4ce9-97f6-e6f051cce7d2)
+5- Drivers with no rides in the last month.
+![image](https://github.com/MuhammadMahmoud7/transportation_system_project1/assets/36486806/08df9e67-04b3-4766-9bbf-1a7ba825e1f9)
+6- Most requested vehicle type.
+![image](https://github.com/MuhammadMahmoud7/transportation_system_project1/assets/36486806/c8d226e1-791f-47e4-8a42-234e11b831e2)
+
+
 
 
 
