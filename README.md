@@ -68,7 +68,7 @@ SQL statements were written to retrieve data according to the project's queries,
 - **ERDPlus**: An online tool used for creating Entity-Relationship Diagrams (ERDs) to model the database schema. It helped in visualizing the relationships between different data entities.
   - Link: 
 
-- **SQL Server 2022**: The database management system used to store, retrieve, and manage the data within the transportation system. It provided a robust and secure environment for handling transactional data.
+- **SQL Server 2014**: The database management system used to store, retrieve, and manage the data within the transportation system. It provided a robust and secure environment for handling transactional data.
 
 - **SQL Language**: The standard language for managing and manipulating databases. SQL was used to create the database schema, insert data, and query the database to answer the project's inquiries.
 
